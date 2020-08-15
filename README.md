@@ -1,4 +1,4 @@
-# moviesFight
+# Movies Fight
 
 ## Description:
 a javascript project to compare between two movies, I am using in this project OMDB API to request movies data (Awards, Box office, MetaScor, etc...) after gitting the data 
